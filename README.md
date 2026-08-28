@@ -1,2 +1,8 @@
 # GitTraining
-Git Repository for training 
+
+Git Repository for training
+
+
+
+First Git test.
+
